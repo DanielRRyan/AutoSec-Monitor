@@ -74,10 +74,10 @@ This project was inspired by Horizon3.ai’s emphasis on proactive security, aut
 **Daniel Ryan**  
 Cybersecurity Leader • Army Veteran • Technical Program Analyst  
 🔗 [LinkedIn](https://linkedin.com/in/danielryan)  
-📧 daniel.r.ryan6@hotmail.com
+📧 daniel.r.ryan6@Gmail.com
 
 ---
 
 ## 📜 License
-MIT License
+Common
 
