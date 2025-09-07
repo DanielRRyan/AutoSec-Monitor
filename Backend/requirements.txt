@@ -1,0 +1,5 @@
+fastapi
+strawberry-graphql
+sqlalchemy
+psycopg2-binary
+requests
